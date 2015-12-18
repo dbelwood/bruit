@@ -1,0 +1,10 @@
+* Bruit - a text editor inspired by Emacs, written in Racket
+
+** Goals
+- Multi-frame, multi-buffer text editing
+- Easy key-mapping management
+- External process integration
+- Easily write new functions for the editor and save them in the editor (Lighttable-esque)
+
+** Todos
+*** TODO Launch app with single frame and buffer in which text can be entered
