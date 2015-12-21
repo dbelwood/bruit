@@ -7,4 +7,7 @@
 - Easily write new functions for the editor and save them in the editor (Lighttable-esque)
 
 ** Todos
+*** DONE Write text directly to the input port and immediately display to the output port
+    CLOSED: [2015-12-20 Sun 12:29]
+*** TODO Display blank buffer conforming to screen to output port
 *** TODO Launch app with single frame and buffer in which text can be entered
